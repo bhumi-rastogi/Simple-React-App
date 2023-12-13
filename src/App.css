@@ -1,0 +1,28 @@
+body{
+  background-color: beige;
+}
+div{
+  text-align: center;
+}
+button{
+  padding: 10px;
+  margin-left: 6px;
+  margin-right: 6px;
+  border-radius: 7px;
+  box-shadow: 2px;
+}
+button:hover{
+  background-color: rgb(182, 145, 97);
+}
+p{
+  text-align: center;
+  font-size: 50px;
+}
+h1{
+  text-align: center;
+  font-size: 100px;
+  color: rgb(74, 123, 167);
+  text-shadow: 3px 4px black;
+}
+
+
